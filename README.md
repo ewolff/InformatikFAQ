@@ -10,17 +10,17 @@ Sehr gut. Typischerweise sind IT-Unternehmen im Wachstum durch den Mangel an qua
 
 ##Was arbeitet ein Informatiker typischerweise?
 
-Im MIttelpunkt steht meistens die Entwicklung von Software zur Unterstützung von Geschäftsprozessen - also beispielsweise die Automatisierung einer Lagerverwaltung. Darüber hinaus gibt es viele Unternehmen, die über das Web oder mobile Apps direkt ihr Geschäft betreiben - beispielsweise als ECommerce-Unternehmen. Die meisten Informatiker sind in diesen Bereichen beschäftigt. Entweder als Mitarbeiter der Firmen oder bei IT-Dienstleistern (genannt IT-Berater). Spiele-Entwicklung o.ä. nimmt nur einen kleinen Teil des Marktes ein.
+Im Mittelpunkt steht meistens die Entwicklung von Software zur Unterstützung von Geschäftsprozessen - also beispielsweise die Automatisierung einer Lagerverwaltung. Darüber hinaus gibt es viele Unternehmen, die über das Web oder mobile Apps direkt ihr Geschäft betreiben - beispielsweise als ECommerce-Unternehmen. Die meisten Informatiker sind in diesen Bereichen beschäftigt. Entweder als Mitarbeiter der Firmen oder bei IT-Dienstleistern (genannt IT-Berater). Spiele-Entwicklung o.ä. nimmt nur einen kleinen Teil des Marktes ein.
 
 ##Wie mach ich als Informatiker Karriere?
 
-Typischerweise beginnt man als Entwickler und wird später Projektleiter mit entsprechend höherem Gehalt. Ein weiterer Aufstieg ins Management ist dann möglich. EIne technische Karriere als Software Architekt ist ebenfalls denkbar - dann kooridiniert man auf technischer Ebene Software-Projekte. Eine weitergehende technische Karriere ist möglich, aber die Ausnahme.
+Typischerweise beginnt man als Entwickler und wird später Projektleiter mit entsprechend höherem Gehalt. Ein weiterer Aufstieg ins Management ist dann möglich. Eine technische Karriere als Software-Architekt ist ebenfalls denkbar - dann koordiniert man auf technischer Ebene Software-Projekte. Eine weitergehende technische Karriere ist möglich, aber die Ausnahme.
 
 ##Welche Überraschungen gibt es im Berufsbild?
 
-Informatiker müssen sehr viel kommunizieren - mit Kunden, um zu verstehen, was genau umgesetzt werden muss. Da praktisch jedes ernsthafte Projekte für einen einzigen Entwickler zu groß ist, müssen Informatiker auch untereinander kommunizieren. Informatiker müssen allso viel mehr als nur Technik können. Den einsamen Technik-Hacker gibt nur sehr selten für sehr spezielle Aufgaben.
+Informatiker müssen sehr viel kommunizieren - mit Kunden, um zu verstehen, was genau umgesetzt werden muss. Da praktisch jedes ernsthafte Projekte für einen einzigen Entwickler zu groß ist, müssen Informatiker auch untereinander kommunizieren. Informatiker müssen also viel mehr als nur Technik können. Den einsamen Technik-Hacker gibt es nur sehr selten für sehr spezielle Aufgaben.
 
-Informatiker benötigen zur Arbeit oft nicht viel als einen Laptop - daher ist Arbeit von zu Hause aus oder andere innovativen Arbeitsweisen viel häufiger in der Informatik zu finden.
+Informatiker benötigen zur Arbeit oft nicht viel mehr als einen Laptop - daher ist Arbeit von zu Hause aus oder in Form von anderen innovativen Arbeitsweisen viel häufiger in der Informatik zu finden.
 
 ##FH / Uni / Promotion / Ausbildung?
 

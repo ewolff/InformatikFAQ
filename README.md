@@ -1,4 +1,4 @@
-#Informatik als Beruf FAQ
+#Informatik-als-Beruf-FAQ
 
 Hintergrund: Ich berate ab und zu mal Schüler zu dem Thema Informatik. Ich habe hier wesentliche Punkte aufgeschrieben. Diskussionen bitte als Issues einstellen. Änderungsvorschläge gerne als Pull Request. Persönliche Nachfragen bitte an eberhard.wolff@gmail.com . Die FAQ findet sich unter https://github.com/ewolff/InformatikFAQ .
 
@@ -6,13 +6,13 @@ Die FAQ soll nicht konkrete Studien- oder Ausbildungsmöglichkeiten aufzeigen, s
 
 ##Wie sind die Berufsaussichten?
 
-Sehr gut. Typischerweise sind IT-Unternehmen im Wachstum durch den Mangel an qualifizierten Arbeitskräften begrenzt. Nur in der Krise 2000/2001 und in einem geringeren Maße 2008 war die Situation nicht so gut. Software wird in allen Branchen immer wichtiger, so dass die Situation sich nicht ändern sollte. Aktuell zeigen das Trends wie IoT (Internet of Things) und Digitalisierung, die Software auch in vielen anderen Branchen sehr wichtig machen wird. Informatiker gibt es auch in fast allen Branchen.
+Sehr gut. Typischerweise sind IT-Unternehmen im Wachstum durch den Mangel an qualifizierten Arbeitskräften begrenzt. Nur in der Krise 2000/2001 und in einem geringeren Maße 2008 war die Situation nicht so gut. Software wird in allen Branchen immer wichtiger, so dass die Situation sich nicht ändern sollte. Aktuell zeigen das Trends wie IoT (Internet of Things) und Digitalisierung, die Software auch in vielen anderen Branchen sehr wichtig machen werden. Informatiker gibt es auch in fast allen Branchen.
 
 ##Was arbeitet ein Informatiker typischerweise?
 
 Im MIttelpunkt steht meistens die Entwicklung von Software zur Unterstützung von Geschäftsprozessen - also beispielsweise die Automatisierung einer Lagerverwaltung. Darüber hinaus gibt es viele Unternehmen, die über das Web oder mobile Apps direkt ihr Geschäft betreiben - beispielsweise als ECommerce-Unternehmen. Die meisten Informatiker sind in diesen Bereichen beschäftigt. Entweder als Mitarbeiter der Firmen oder bei IT-Dienstleistern (genannt IT-Berater). Spiele-Entwicklung o.ä. nimmt nur einen kleinen Teil des Marktes ein.
 
-##Wie mach ich als Informatiker Karriere?
+##Wie mache ich als Informatiker Karriere?
 
 Typischerweise beginnt man als Entwickler und wird später Projektleiter mit entsprechend höherem Gehalt. Ein weiterer Aufstieg ins Management ist dann möglich. EIne technische Karriere als Software Architekt ist ebenfalls denkbar - dann kooridiniert man auf technischer Ebene Software-Projekte. Eine weitergehende technische Karriere ist möglich, aber die Ausnahme.
 
@@ -26,7 +26,7 @@ Informatiker benötigen zur Arbeit oft nicht viel als einen Laptop - daher ist A
 
 Meistens geht es in der Branche um die Fähigkeiten und weniger, wie man sie erworben hat. Auch ein abgebrochenes Studium kann als Qualifikation genügen. Man kann sich also durchaus hocharbeiten, indem man das notwendige Wissen in der Praxis erwirbt. Einige Unternehmen legen allerdings Wert auf eine formale Qualifikation.
 
-FH ist eher praktisch, Uni eher theoretisch und breiter angelegt - man muss entschieden, was man lieber mag.  Ich persönlich finde eine Ausbildung nicht so sinnvoll, habe aber auch schon mit sehr guten Leuten zusammengearbeitet, die eine Ausbildung gemacht haben. Promotion finde ich persönlich übertrieben.
+FH ist eher praktisch, Uni eher theoretisch und breiter angelegt - man muss entschieden, was man lieber mag. Ich persönlich finde eine Ausbildung nicht so sinnvoll, habe aber auch schon mit sehr guten Leuten zusammengearbeitet, die eine Ausbildung gemacht haben. Promotion finde ich persönlich übertrieben.
 
 Im öffentlichen Dienst sind die Gehälter an den Studienabschluss gekoppelt. Die Gehälter sind im Vergleich zur Industrie aber niedriger. Dafür gibt es im öffentlichen Dienst beispielsweise wesentlich kürzere Arbeitszeiten. Für den öffentlichen Dienst ist ein Studium also sehr sinnvoll.
 
@@ -34,7 +34,7 @@ Im öffentlichen Dienst sind die Gehälter an den Studienabschluss gekoppelt. Di
 
 Im wesentlichen:
 
-* Software-Entwicklung - praktisch Programmieren, Programmiersprachen etc
+* Software-Entwicklung - praktisch Programmieren, Programmiersprachen etc.
 
 * Technische Informatik - Hardware und Hardware-Design
 
@@ -56,7 +56,7 @@ Aber: Software-Entwicklung ist oft wie das Erarbeiten eines Lösungsansatzes fü
 
 ##Wie ist der Frauen-Anteil?
 
-Viel zu niedrig. Es gibt aber Initiativen, die dieses Problem versuchen zu lösen.
+Viel zu niedrig. Es gibt aber Initiativen, die versuchen, dieses Problem zu lösen.
 
 ##Lizenz der FAQ
 

@@ -14,7 +14,7 @@ Im MIttelpunkt steht meistens die Entwicklung von Software zur Unterstützung vo
 
 ##Wie mach ich als Informatiker Karriere?
 
-Typischerweise beginnt man als Entwickler und wird später Projektleiter mit entsprechend höherem Gehalt. Ein weiterer Aufstieg ins Management ist dann möglich. EIne technische Karriere als Software Architekt ist ebenfalls denkbar - dann kooridiniert man auf technischer Ebene Software-Projkete. Eine weitergehende technische Karriere ist möglich, aber die Ausnahme.
+Typischerweise beginnt man als Entwickler und wird später Projektleiter mit entsprechend höherem Gehalt. Ein weiterer Aufstieg ins Management ist dann möglich. EIne technische Karriere als Software Architekt ist ebenfalls denkbar - dann kooridiniert man auf technischer Ebene Software-Projekte. Eine weitergehende technische Karriere ist möglich, aber die Ausnahme.
 
 ##Welche Überraschungen gibt es im Berufsbild?
 
@@ -24,9 +24,9 @@ Informatiker benötigen zur Arbeit oft nicht viel als einen Laptop - daher ist A
 
 ##FH / Uni / Promotion / Ausbildung?
 
-Meistens geht es in der Branche um die Fähigkeiten und weniger, wie man sie erworben hat. Auch ein abgebrochenes Studium kann als Qualifikation genügen. Man kann sich also durchaus hocharbeiten, indem man das notwendige Wissen in der Praxis erwirbt. Einige Unternehmen legen allerdings wert auf eine formale Qualifikation.
+Meistens geht es in der Branche um die Fähigkeiten und weniger, wie man sie erworben hat. Auch ein abgebrochenes Studium kann als Qualifikation genügen. Man kann sich also durchaus hocharbeiten, indem man das notwendige Wissen in der Praxis erwirbt. Einige Unternehmen legen allerdings Wert auf eine formale Qualifikation.
 
-FH ist eher praktisch, Uni eher theoretisch und breiter angelegt - man muss entschieden, was man lieber mag.  Ich persönlich finde eine Ausbildung nicht so sinnvoll, habe aber auch schon mit sehr guten Leuten zusammengearbeitet, die eine Ausbildung gemacht haben.  Promotion finde ich persönlich übertrieben.
+FH ist eher praktisch, Uni eher theoretisch und breiter angelegt - man muss entschieden, was man lieber mag.  Ich persönlich finde eine Ausbildung nicht so sinnvoll, habe aber auch schon mit sehr guten Leuten zusammengearbeitet, die eine Ausbildung gemacht haben. Promotion finde ich persönlich übertrieben.
 
 Im öffentlichen Dienst sind die Gehälter an den Studienabschluss gekoppelt. Die Gehälter sind im Vergleich zur Industrie aber niedriger. Dafür gibt es im öffentlichen Dienst beispielsweise wesentlich kürzere Arbeitszeiten. Für den öffentlichen Dienst ist ein Studium also sehr sinnvoll.
 
@@ -46,13 +46,13 @@ Fächer wie Medieninformatik oder Bioinformatik kombinieren Informatik mit Fachw
 
 ##Würdest Du wieder studieren?
 
-Ja und auch wieder an der Uni. Ich fand die Theorie spannend und habe Themen wie funktionale Programmierung kennengelernt, die erst in den letzten Jahren aktuell werden.
+Ja und auch wieder an der Uni. Ich fand die Theorie spannend und habe Themen wie funktionale Programmierung kennengelernt, die erst in den letzten Jahren aktuell wurden.
 
 ##Benötige ich Mathematik-Kenntnisse?
 
 Mathematik kann im Studium einen wichtigen Teil einnehmen - in meinem war es allerdings nicht so. Siehe auch oben: Es kann zu den Nebenfächern gehören.
 
-Aber: Software-Entwicklung ist oft wie das Erarbeiten eines Lösunsgansatzes für Text-Aufgaben in der Mathematik. Wichtig ist, wie man aus einer Aufgabe eine mathematisches Gebilde entwickelt. Damit versorgt man dann den Computer, der dann die Berechnungen anstellt. Daher ist mathematisches Denken schon wichtig - aber nicht konrketes Mathematik-Wissen.
+Aber: Software-Entwicklung ist oft wie das Erarbeiten eines Lösungsansatzes für Text-Aufgaben in der Mathematik. Wichtig ist, wie man aus einer Aufgabe eine mathematisches Gebilde entwickelt. Damit versorgt man dann den Computer, der dann die Berechnungen anstellt. Daher ist mathematisches Denken schon wichtig - aber nicht konrketes Mathematik-Wissen.
 
 ##Wie ist der Frauen-Anteil?
 

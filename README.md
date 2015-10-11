@@ -1,6 +1,6 @@
 #Informatik als Beruf FAQ
 
-Hintergrund: Ich berate ab und zu mal Schüler zu dem Thema Informatik. Ich habe hier wesentliche Punkte aufgeschrieben. Diskussionen bitte als Issues einstellen. Änderungsvorschläge gerne als Pull Request. Persönliche Nachfragen bitte an eberhard.wolff@gmail.com .
+Hintergrund: Ich berate ab und zu mal Schüler zu dem Thema Informatik. Ich habe hier wesentliche Punkte aufgeschrieben. Diskussionen bitte als Issues einstellen. Änderungsvorschläge gerne als Pull Request. Persönliche Nachfragen bitte an eberhard.wolff@gmail.com . Die FAQ findet sich unter https://github.com/ewolff/InformatikFAQ .
 
 Die FAQ soll nicht konkrete Studien- oder Ausbildungsmöglichkeiten aufzeigen, sondern allgemeine Hinweise und eine erste Orientierung. Weitere Quellen findet man im Internet sicher leicht.
 

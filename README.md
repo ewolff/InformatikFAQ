@@ -98,7 +98,13 @@ Motivation.
 
 Meistens geht es in der Branche um die Fähigkeiten und weniger, wie man sie erworben hat. Auch ein abgebrochenes Studium kann als Qualifikation genügen. Man kann sich also durchaus hocharbeiten, indem man das notwendige Wissen in der Praxis erwirbt. Einige Unternehmen legen allerdings Wert auf eine formale Qualifikation.
 
-FH ist eher praktisch, Uni eher theoretisch und breiter angelegt - man muss entschieden, was man lieber mag. Ich persönlich finde eine Ausbildung nicht so sinnvoll, habe aber auch schon mit sehr guten Leuten zusammengearbeitet, die eine Ausbildung gemacht haben. Promotion finde ich persönlich übertrieben.
+FH ist eher praktisch, Uni eher theoretisch und breiter angelegt - man muss entschieden, was man lieber mag. Ich persönlich finde eine Ausbildung nicht so sinnvoll, habe aber auch schon mit sehr guten Leuten zusammengearbeitet, die eine Ausbildung gemacht haben. Promotion finde ich persönlich übertrieben (sagt @ewolf)
+
+Ergänzende Bemerkung von Gernot Starke (ich habe in Informatik promoviert): Mir hat
+die Promotion in meinen baratenden Tätigkeiten ungeheuer viel geholfen: In Diskussionen
+mit leitenden Managern, Geschäftsführern und Vorständen brauche ich (aufgrund
+meines Doktortitels) oftmals nicht mehr meine Informatik-Kompetenz _begründen_ oder irgendwie _belegen_, sondern wurde aufgrund des Titels als _sachkundiger Gesprächspartner_ akzeptiert. Das hat mir persönlich viel geholfen. Ich habe meine Promotion allerdings auch mit sehr praktischer Arbeit verbinden können...
+
 
 Im öffentlichen Dienst sind die Gehälter an den Studienabschluss gekoppelt. Die Gehälter sind im Vergleich zur Industrie aber niedriger. Dafür gibt es im öffentlichen Dienst beispielsweise wesentlich kürzere Arbeitszeiten. Für den öffentlichen Dienst ist ein Studium also sehr sinnvoll.
 

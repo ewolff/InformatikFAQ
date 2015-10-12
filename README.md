@@ -2,7 +2,7 @@
 
 Hintergrund: Ich berate ab und zu mal Schüler zu dem Thema Informatik. Ich habe hier wesentliche Punkte aufgeschrieben. Diskussionen bitte als Issues einstellen. Änderungsvorschläge gerne als Pull Request. Persönliche Nachfragen bitte an eberhard.wolff@gmail.com . Die FAQ findet sich unter https://github.com/ewolff/InformatikFAQ .
 
-Die FAQ soll nicht konkrete Studien- oder Ausbildungsmöglichkeiten aufzeigen, sondern allgemeine Hinweise und eine erste Orientierung. Weitere Quellen findet man im Internet sicher leicht.
+Die FAQ soll nicht konkrete Studien- oder Ausbildungsmöglichkeiten aufzeigen, sondern allgemeine Hinweise und eine erste Orientierung bieten. Weitere Quellen findet man im Internet sicher leicht.
 
 ##Wie sind die Berufsaussichten?
 
@@ -10,18 +10,16 @@ Sehr gut. Typischerweise sind IT-Unternehmen im Wachstum durch den Mangel an qua
 
 Software wird aber seit Jahren in allen Branchen immer wichtiger, so dass diese positive Situation sich auf absehbare Zeit nicht ändern sollte. 
 
-Aktuell zeigen das Trends wie IoT (Internet of Things) und Digitalisierung, die Software auch in vielen anderen Branchen sehr wichtig machen wird. 
-
 Bedarf für Informatiker gibt es auch in fast allen Branchen.
 
 
 ##Was arbeitet ein Informatiker typischerweise?
 
-Im Mittelpunkt steht meistens die Entwicklung von Software zur Unterstützung von Geschäftsprozessen, Maschinen oder - also beispielsweise:
+Im Mittelpunkt steht meistens die Entwicklung von Software zur Unterstützung von Geschäftsprozessen, oder Maschinen - also beispielsweise:
 
 * Automatisierung von Lagerverwaltung. 
 * Steuerung und Regelung in Maschinen, beispielsweise Autos, Flugzeugen, Schiffen.
-* Steuerung von Produktionsprozessen in jeglicher Art von Fabrikanlagen, beispielsweise in der chemischen Industrie, der Automibilbranche oder dem Maschinenbau. 
+* Steuerung von Produktionsprozessen in jeglicher Art von Fabrikanlagen, beispielsweise in der chemischen Industrie, der Automobilbranche oder dem Maschinenbau. 
 * Steuerung unserer Energieversorgung: Stromerzeugung, -verteilung und -verkauf.
 * Roboter
 * Jegliche Art anspruchsvoller Elektronik, also DVD-/Blueray-Player, alle Arten von Audio-/Soundgeräten, Navigationsgeräte, moderne Wasch- und Spülmaschinen, Telefone
@@ -78,7 +76,7 @@ Das gelingt Menschen mit viel Berufserfahrung und Spezialwissen natürlich leich
 Informatiker müssen sehr viel kommunizieren:
 
 * mit Kunden, um zu verstehen, was genau umgesetzt werden muss. 
-* mit anderen Informatikern: Da praktisch jedes ernsthafte Projekte für einen einzigen Entwickler zu groß ist, müssen Informatiker auch untereinander kommunizieren. Informatiker müssen also viel mehr als nur Technik können. Den einsamen Technik-Hacker gibt es nur sehr selten für sehr spezielle Aufgaben.
+* mit anderen Informatikern: Da praktisch jedes ernsthafte Projekt für einen einzigen Entwickler zu groß ist, müssen Informatiker auch untereinander kommunizieren. Informatiker müssen also viel mehr als nur Technik können. Den einsamen Technik-Hacker gibt es nur sehr selten für sehr spezielle Aufgaben.
 
 ### Möglichkeiten flexibler Arbeitsgestaltung
 Informatiker benötigen zur Arbeit oft nicht viel mehr als einen Laptop - daher ist Arbeit von zu Hause aus oder in Form von anderen innovativen Arbeitsweisen viel häufiger in der Informatik zu finden.
@@ -89,7 +87,7 @@ Einige unserer Kollegen arbeiten oft zuhause oder in Co-Working Spaces.
 ### Immens hoher Anteil an ständiger Weiterbildung
 Erkenntnisse bzw. technische Grundlagen der Informatik entwickeln sich in den letzten
 Jahren mit schier unglaublicher Geschwindigkeit weiter. Das bedeutet, dass Wissen
-ziemlich schnell veraltet-  und Informatiker ständig mit ihrer eigenen Weiterbildung
+ziemlich schnell veraltet - und Informatiker ständig mit ihrer eigenen Weiterbildung
 beschäftigt sein müssen (!!).
 Das macht ungeheuer viel Spaß - benötigt auf der anderen Seite aber auch eine gehörige
 Motivation.
@@ -98,11 +96,11 @@ Motivation.
 
 Ja. Aber...
 
-Sehr viele Schüler träumen davon, Computerspiele-Entwickler zu werden. Die "Gaming-Branche", hat allerdings mit einigen Besonderheiten aufzuwarten. So ist zum Beispiel der Erfolg des Produkts nicht vorhersagbar und die Firmen können deshalb sehr schnell wachsen und dann ebenso schnell wieder in sich zusammenfallen. Die Entwickler werden teilweise direkt für Projekterfolge oder -misserfolge zur Verantwortung gezogen und stehen deshalb unter sehr großem Druck. Überstunden, Nacht- und Wochenendschichten können die Regel sein. Die Bezahlung ist im Vergleich mit anderen Branchen eher schlecht und die Fluktuation unter den Mitarbein ist hoch.
+Sehr viele Schüler träumen davon, Computerspiele-Entwickler zu werden. Die "Gaming-Branche", hat allerdings mit einigen Besonderheiten aufzuwarten. So ist zum Beispiel der Erfolg des Produkts nicht vorhersagbar und die Firmen können deshalb sehr schnell wachsen und dann ebenso schnell wieder in sich zusammenfallen. Die Entwickler werden teilweise direkt für Projekterfolge oder -misserfolge zur Verantwortung gezogen und stehen deshalb unter sehr großem Druck. Überstunden, Nacht- und Wochenendschichten können die Regel sein. Die Bezahlung ist im Vergleich mit anderen Branchen eher schlecht und die Fluktuation unter den Mitarbeitern ist hoch.
 
 Nach so viel Vorwarnung nun das Positive: Lange gab es kaum Game-Entwicklerstudios in Deutschland, das hat sich gewandelt und es gibt Bedarf aus der Spielebranche. Mehrere Firmen sind erwachsen geworden und bieten ihren Mitarbeitern heute vernünftige Arbeitsbedingungen. Nur darf man nicht eine Rockstar-Karriere erwarten.
 
-Die von den Entwicklern zu lösenden Probleme unterscheiden sich teilweise deutlich von denen, die man in den klassischen Branchen findet. Ebenso ist die Atmosphäre in den Spiele-Firmen eher geprägt von Kreativität und einer gewissen Verspieltheit, Buntheit und Lockerheit und bietet auch damit einen starken Kontrast zur klassischen Business-Software Entwicklung. Die Teams sind häufig international, so daß gute Englischkentnisse unabdingbar sind. Die Zusammenarbeit mit "Kreativen" und häufig und schnell sich ändernden Anforderungen bestimmt das Tagesgeschäft der Entwickler, was man je nach persönlicher Disposition als "positiv-dynamisch" oder "negativ-chaotisch" bewerten wird.
+Die von den Entwicklern zu lösenden Probleme unterscheiden sich teilweise deutlich von denen, die man in den klassischen Branchen findet. Ebenso ist die Atmosphäre in den Spiele-Firmen eher geprägt von Kreativität und einer gewissen Verspieltheit, Buntheit und Lockerheit und bietet auch damit einen starken Kontrast zur klassischen Business-Software Entwicklung. Die Teams sind häufig international, sodass gute Englischkentnisse unabdingbar sind. Die Zusammenarbeit mit "Kreativen" und häufig und schnell sich ändernden Anforderungen bestimmt das Tagesgeschäft der Entwickler, was man je nach persönlicher Disposition als "positiv-dynamisch" oder "negativ-chaotisch" bewerten wird.
 
 Generell wird allerdings eher zum Studium geraten.
 
@@ -113,7 +111,7 @@ Meistens geht es in der Branche um die Fähigkeiten und weniger, wie man sie erw
 FH ist eher praktisch, Uni eher theoretisch und breiter angelegt - man muss entschieden, was man lieber mag. Ich persönlich finde eine Ausbildung nicht so sinnvoll, habe aber auch schon mit sehr guten Leuten zusammengearbeitet, die eine Ausbildung gemacht haben. Promotion finde ich persönlich übertrieben (sagt @ewolf)
 
 Ergänzende Bemerkung von Gernot Starke (ich habe in Informatik promoviert): Mir hat
-die Promotion in meinen baratenden Tätigkeiten ungeheuer viel geholfen: In Diskussionen
+die Promotion in meinen beratenden Tätigkeiten ungeheuer viel geholfen: In Diskussionen
 mit leitenden Managern, Geschäftsführern und Vorständen brauche ich (aufgrund
 meines Doktortitels) oftmals nicht mehr meine Informatik-Kompetenz _begründen_ oder irgendwie _belegen_, sondern wurde aufgrund des Titels als _sachkundiger Gesprächspartner_ akzeptiert. Das hat mir persönlich viel geholfen. Ich habe meine Promotion allerdings auch mit sehr praktischer Arbeit verbinden können...
 
@@ -122,7 +120,7 @@ Im öffentlichen Dienst sind die Gehälter an den Studienabschluss gekoppelt. Di
 
 ##Was lernt man im Studium?
 
-Im wesentlichen:
+Im Wesentlichen:
 
 * Software-Entwicklung - praktisch Programmieren, Programmiersprachen etc.
 
@@ -142,7 +140,7 @@ Ja und auch wieder an der Uni. Ich fand die Theorie spannend und habe Themen wie
 
 Mathematik kann im Studium einen wichtigen Teil einnehmen - in meinem war es allerdings nicht so. Siehe auch oben: Es kann zu den Nebenfächern gehören.
 
-Aber: Software-Entwicklung ist oft wie das Erarbeiten eines Lösungsansatzes für Text-Aufgaben in der Mathematik. Wichtig ist, wie man aus einer Aufgabe eine mathematisches Gebilde entwickelt. Damit versorgt man dann den Computer, der dann die Berechnungen anstellt. Daher ist mathematisches Denken schon wichtig - aber nicht konkretes Mathematik-Wissen.
+Aber: Software-Entwicklung ist oft wie das Erarbeiten eines Lösungsansatzes für Text-Aufgaben in der Mathematik. Wichtig ist, wie man aus einer Aufgabe eine mathematisches Gebilde entwickelt. Damit versorgt man dann den Computer, der die Berechnungen anstellt. Daher ist mathematisches Denken schon wichtig - aber nicht konkretes Mathematik-Wissen.
 
 ##Wie ist der Frauen-Anteil?
 

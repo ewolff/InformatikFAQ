@@ -43,7 +43,34 @@ Abstimmungstätigkeiten an.
 
 ##Wie mache ich als Informatiker Karriere?
 
-Typischerweise beginnt man als Entwickler und wird später Projektleite) mit entsprechend höherem Gehalt. Ein weiterer Aufstieg ins Management ist dann möglich. Eine technische Karriere als Software-Architekt ist ebenfalls denkbar - dann koordiniert man auf technischer Ebene Software-Projekte. Eine weitergehende technische Karriere ist möglich, aber die Ausnahme.
+_Karriere_ kann hierbei mehrere Dinge bedeuten: 
+
+1. Mehr Geld, 
+2. mehr Entscheidungsbefugnis (geht meistens mit 1. einher), 
+3. mehr inhaltliche Verantwortung 
+4. mehr technische Verantwortung (von 1. oft unabhängig)
+4. mehr Personalverantwortung (geht meist mit 1. einher)
+
+
+Typischerweise beginnt man als Entwickler und wird später Projektleiter 
+(mit entsprechend höherem Gehalt). 
+
+Ein weiterer Aufstieg ins Management ist dann möglich - bedarf aber verstärkter
+kommunikativer Fähigkeiten und ordentlichem Durchsetzungsvermögen. 
+
+Eine technische Karriere als Software-Architekt ist ebenfalls denkbar - dann koordiniert man auf technischer Ebene Software-Projekte. Eine weitergehende technische Karriere ist möglich, aber die Ausnahme.
+
+### Karriere in der Selbständigkeit
+Als Informatiker oder Softwareentwickler benötigt selbständige Tätigkeit
+(sprich: ein eigenes Unternehmen gründen) nur sehr wenig Investitionsmittel,
+im Gegensatz zu vielen anderen Berufen!
+
+Daher gibt es in der Informatik auch viele Freiberufler oder ganz kleine Unternehmen,
+die Informatik als Dienstleistung anbieten und damit ein gutes Auskommen bei
+einem hohen Maß an Selbstbestimmung und persönlichen Freiräumen erreichen.
+
+Das gelingt Menschen mit viel Berufserfahrung und Spezialwissen natürlich leichter.
+
 
 ##Welche Überraschungen gibt es im Berufsbild?
 

@@ -52,7 +52,7 @@ Ja und auch wieder an der Uni. Ich fand die Theorie spannend und habe Themen wie
 
 Mathematik kann im Studium einen wichtigen Teil einnehmen - in meinem war es allerdings nicht so. Siehe auch oben: Es kann zu den Nebenfächern gehören.
 
-Aber: Software-Entwicklung ist oft wie das Erarbeiten eines Lösungsansatzes für Text-Aufgaben in der Mathematik. Wichtig ist, wie man aus einer Aufgabe eine mathematisches Gebilde entwickelt. Damit versorgt man dann den Computer, der dann die Berechnungen anstellt. Daher ist mathematisches Denken schon wichtig - aber nicht konrketes Mathematik-Wissen.
+Aber: Software-Entwicklung ist oft wie das Erarbeiten eines Lösungsansatzes für Text-Aufgaben in der Mathematik. Wichtig ist, wie man aus einer Aufgabe eine mathematisches Gebilde entwickelt. Damit versorgt man dann den Computer, der dann die Berechnungen anstellt. Daher ist mathematisches Denken schon wichtig - aber nicht konkretes Mathematik-Wissen.
 
 ##Wie ist der Frauen-Anteil?
 

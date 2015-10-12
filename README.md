@@ -29,9 +29,21 @@ Im Mittelpunkt steht meistens die Entwicklung von Software zur Unterstützung vo
 
 Darüber hinaus gibt es viele Unternehmen, die über das Web oder mobile Apps direkt ihr Geschäft betreiben - beispielsweise als ECommerce-Unternehmen. Die meisten Informatiker sind in diesen Bereichen beschäftigt. Entweder als Mitarbeiter der Firmen oder bei IT-Dienstleistern (genannt IT-Berater). Spieleentwicklung o.ä. nimmt nur einen kleinen Teil des Marktes ein.
 
+### Rund um die "Entwicklung"...
+Neben der reinen Programmierung gehören zur Entwicklung anspruchsvoller (größerer,
+schwierigerer, riskanter) Software noch eine ganze Reihe begleitender Tätigkeiten,
+für die Informatiker _prädestiniert_ sind:
+
+* Planung und Entwurf der Systeme (sozusagen die Erstellung der Software-Baupläne)
+* Detaillierte Klärung der jeweiligen Anforderungen (das so genannte Requirements Engineering)
+* Prüfung und Test der entwickelten Software
+* Abstimmung der Arbeitsaufgaben in Teams: größere Softwaresysteme werden oftmals
+von Dutzenden unterschiedlicher Personen bearbeitet... da fallen jede Menge interessanter
+Abstimmungstätigkeiten an.
+
 ##Wie mache ich als Informatiker Karriere?
 
-Typischerweise beginnt man als Entwickler und wird später Projektleiter mit entsprechend höherem Gehalt. Ein weiterer Aufstieg ins Management ist dann möglich. Eine technische Karriere als Software-Architekt ist ebenfalls denkbar - dann koordiniert man auf technischer Ebene Software-Projekte. Eine weitergehende technische Karriere ist möglich, aber die Ausnahme.
+Typischerweise beginnt man als Entwickler und wird später Projektleite) mit entsprechend höherem Gehalt. Ein weiterer Aufstieg ins Management ist dann möglich. Eine technische Karriere als Software-Architekt ist ebenfalls denkbar - dann koordiniert man auf technischer Ebene Software-Projekte. Eine weitergehende technische Karriere ist möglich, aber die Ausnahme.
 
 ##Welche Überraschungen gibt es im Berufsbild?
 

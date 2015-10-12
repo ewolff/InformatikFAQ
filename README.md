@@ -1,4 +1,4 @@
-#Informatik-als-Beruf-FAQ
+    #Informatik-als-Beruf-FAQ
 
 Hintergrund: Ich berate ab und zu mal Schüler zu dem Thema Informatik. Ich habe hier wesentliche Punkte aufgeschrieben. Diskussionen bitte als Issues einstellen. Änderungsvorschläge gerne als Pull Request. Persönliche Nachfragen bitte an eberhard.wolff@gmail.com . Die FAQ findet sich unter https://github.com/ewolff/InformatikFAQ .
 
@@ -8,9 +8,26 @@ Die FAQ soll nicht konkrete Studien- oder Ausbildungsmöglichkeiten aufzeigen, s
 
 Sehr gut. Typischerweise sind IT-Unternehmen im Wachstum durch den Mangel an qualifizierten Arbeitskräften begrenzt. Nur in der Krise 2000/2001 und in einem geringeren Maße 2008 war die Situation nicht so gut. Software wird in allen Branchen immer wichtiger, so dass die Situation sich nicht ändern sollte. Aktuell zeigen das Trends wie IoT (Internet of Things) und Digitalisierung, die Software auch in vielen anderen Branchen sehr wichtig machen werden. Informatiker gibt es auch in fast allen Branchen.
 
+Software wird aber seit Jahren in allen Branchen immer wichtiger, so dass diese positive Situation sich auf absehbare Zeit nicht ändern sollte. 
+
+Aktuell zeigen das Trends wie IoT (Internet of Things) und Digitalisierung, die Software auch in vielen anderen Branchen sehr wichtig machen wird. 
+
+Bedarf für Informatiker gibt es auch in fast allen Branchen.
+
+
 ##Was arbeitet ein Informatiker typischerweise?
 
-Im Mittelpunkt steht meistens die Entwicklung von Software zur Unterstützung von Geschäftsprozessen - also beispielsweise die Automatisierung einer Lagerverwaltung. Darüber hinaus gibt es viele Unternehmen, die über das Web oder mobile Apps direkt ihr Geschäft betreiben - beispielsweise als ECommerce-Unternehmen. Die meisten Informatiker sind in diesen Bereichen beschäftigt. Entweder als Mitarbeiter der Firmen oder bei IT-Dienstleistern (genannt IT-Berater). Spiele-Entwicklung o.ä. nimmt nur einen kleinen Teil des Marktes ein.
+Im Mittelpunkt steht meistens die Entwicklung von Software zur Unterstützung von Geschäftsprozessen, Maschinen oder - also beispielsweise:
+
+* Automatisierung von Lagerverwaltung. 
+* Steuerung und Regelung in Maschinen, beispielsweise Autos, Flugzeugen, Schiffen.
+* Steuerung von Produktionsprozessen in jeglicher Art von Fabrikanlagen, beispielsweise in der chemischen Industrie, der Automibilbranche oder dem Maschinenbau. 
+* Steuerung unserer Energieversorgung: Stromerzeugung, -verteilung und -verkauf.
+* Roboter
+* Jegliche Art anspruchsvoller Elektronik, also DVD-/Blueray-Player, alle Arten von Audio-/Soundgeräten, Navigationsgeräte, moderne Wasch- und Spülmaschinen, Telefone
+
+
+Darüber hinaus gibt es viele Unternehmen, die über das Web oder mobile Apps direkt ihr Geschäft betreiben - beispielsweise als ECommerce-Unternehmen. Die meisten Informatiker sind in diesen Bereichen beschäftigt. Entweder als Mitarbeiter der Firmen oder bei IT-Dienstleistern (genannt IT-Berater). Spieleentwicklung o.ä. nimmt nur einen kleinen Teil des Marktes ein.
 
 ##Wie mache ich als Informatiker Karriere?
 

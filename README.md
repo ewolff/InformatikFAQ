@@ -74,9 +74,25 @@ Das gelingt Menschen mit viel Berufserfahrung und Spezialwissen natürlich leich
 
 ##Welche Überraschungen gibt es im Berufsbild?
 
-Informatiker müssen sehr viel kommunizieren - mit Kunden, um zu verstehen, was genau umgesetzt werden muss. Da praktisch jedes ernsthafte Projekte für einen einzigen Entwickler zu groß ist, müssen Informatiker auch untereinander kommunizieren. Informatiker müssen also viel mehr als nur Technik können. Den einsamen Technik-Hacker gibt es nur sehr selten für sehr spezielle Aufgaben.
+### Hoher Anteil an Kommunikation mit anderen Menschen
+Informatiker müssen sehr viel kommunizieren:
 
+* mit Kunden, um zu verstehen, was genau umgesetzt werden muss. 
+* mit anderen Informatikern: Da praktisch jedes ernsthafte Projekte für einen einzigen Entwickler zu groß ist, müssen Informatiker auch untereinander kommunizieren. Informatiker müssen also viel mehr als nur Technik können. Den einsamen Technik-Hacker gibt es nur sehr selten für sehr spezielle Aufgaben.
+
+### Möglichkeiten flexibler Arbeitsgestaltung
 Informatiker benötigen zur Arbeit oft nicht viel mehr als einen Laptop - daher ist Arbeit von zu Hause aus oder in Form von anderen innovativen Arbeitsweisen viel häufiger in der Informatik zu finden.
+
+Einige unserer Kollegen arbeiten oft zuhause oder in Co-Working Spaces.
+
+
+### Immens hoher Anteil an ständiger Weiterbildung
+Erkenntnisse bzw. technische Grundlagen der Informatik entwickeln sich in den letzten
+Jahren mit schier unglaublicher Geschwindigkeit weiter. Das bedeutet, dass Wissen
+ziemlich schnell veraltet-  und Informatiker ständig mit ihrer eigenen Weiterbildung
+beschäftigt sein müssen (!!).
+Das macht ungeheuer viel Spaß - benötigt auf der anderen Seite aber auch eine gehörige
+Motivation.
 
 ##FH / Uni / Promotion / Ausbildung?
 

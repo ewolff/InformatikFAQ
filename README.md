@@ -98,27 +98,11 @@ Motivation.
 
 Ja. Aber...
 
-Sehr viele Schüler träumen davon, Computerspiele-Entwickler zu
-werden. Spiele werden heute in sehr großen Teams entwickelt, der
-Erfolg des Produkts ist nicht vorhersagbar und die Firmen können
-deshalb sehr schnell und chaotisch wachsen und dann ebenso schnell
-wieder in sich zusammenfallen. Große Budgets und festgelegte Termine
-erhöhen den Druck auf die Entwickler.
+Sehr viele Schüler träumen davon, Computerspiele-Entwickler zu werden. Spiele werden heute in sehr großen Teams entwickelt, der Erfolg des Produkts ist nicht vorhersagbar und die Firmen können deshalb sehr schnell und chaotisch wachsen und dann ebenso schnell wieder in sich zusammenfallen. Große Budgets und festgelegte Termine erhöhen den Druck auf die Entwickler.
 
-Durch ein Überangebot an Bewerbern sind die Mitarbeiter
-vergleichsweise jung, leidensfähig und werden als ersetzbar
-betrachtet. Es ist deshalb nicht ungewöhnlich, dass Informatiker
-z.B. in einem "langweiligen" Versicherungsunternehmen bessere
-Arbeitsbedingungen, weniger Bürokratie und interessantere Aufgaben
-vorfinden als in der Games-Branche. Auch die Arbeit selbst
-unterscheidet sich überraschenderweise kaum.
+Durch ein Überangebot an Bewerbern sind die Mitarbeiter vergleichsweise jung, leidensfähig und werden als ersetzbar betrachtet. Es ist deshalb nicht ungewöhnlich, dass Informatiker z.B. in einem "langweiligen" Versicherungsunternehmen bessere Arbeitsbedingungen, weniger Bürokratie und interessantere Aufgaben vorfinden als in der Games-Branche. Auch die Arbeit selbst unterscheidet sich überraschenderweise kaum.
 
-Nach so viel Vorwarnung nun das Positive: Lange gab es kaum
-Game-Entwicklerstudios in Deutschland, das hat sich gewandelt und es
-gibt Bedarf aus der Spielebranche. Mehrere Firmen sind erwachsen
-geworden und bieten ihren Mitarbeitern heute gute
-Arbeitsbedingungen. Nur darf man nicht eine Rockstar-Karriere
-erwarten.
+Nach so viel Vorwarnung nun das Positive: Lange gab es kaum Game-Entwicklerstudios in Deutschland, das hat sich gewandelt und es gibt Bedarf aus der Spielebranche. Mehrere Firmen sind erwachsen geworden und bieten ihren Mitarbeitern heute vernünftige Arbeitsbedingungen. Nur darf man nicht eine Rockstar-Karriere erwarten.
 
 ##FH / Uni / Promotion / Ausbildung?
 

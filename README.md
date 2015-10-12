@@ -1,6 +1,6 @@
 #Informatik-als-Beruf-FAQ
 
-*"Sie wollen Informatik studieren? Ach, da studieren Sie doch in die Arbeitslosigkeit. Werden Sie lieber [Versicherungsmathematiker](https://de.wikipedia.org/wiki/Versicherungsmathematik), das hat Zukunft!"* (Zitat Berufsberater, 1990)
+*"Sie wollen Informatik studieren? Ach, da studieren Sie doch in die Arbeitslosigkeit. Werden Sie lieber [Versicherungsmathematiker](https://de.wikipedia.org/wiki/Versicherungsmathematik), das hat Zukunft!"* (Originalzitat eines Berufsberaters zu Abiturienten des Jahrgangs 1991)
 
 Hintergrund: Ich berate ab und zu mal Schüler zu dem Thema Informatik. Ich habe hier wesentliche Punkte aufgeschrieben. Diskussionen bitte als Issues einstellen. Änderungsvorschläge gerne als Pull Request. Persönliche Nachfragen bitte an eberhard.wolff@gmail.com . Die FAQ findet sich unter https://github.com/ewolff/InformatikFAQ .
 

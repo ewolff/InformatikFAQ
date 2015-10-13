@@ -34,6 +34,7 @@ für die Informatiker _prädestiniert_ sind:
 
 * Planung und Entwurf der Systeme (sozusagen die Erstellung der Software-Baupläne)
 * Detaillierte Klärung der jeweiligen Anforderungen (das so genannte Requirements Engineering)
+* Sicherheit von IT-Systemen
 * Prüfung und Test der entwickelten Software
 * Abstimmung der Arbeitsaufgaben in Teams: größere Softwaresysteme werden oftmals
 von Dutzenden unterschiedlicher Personen bearbeitet... da fallen jede Menge interessanter
@@ -127,7 +128,7 @@ Im Wesentlichen:
 
 * Mathematik, Nebenfächer (je nach Uni)
 
-Fächer wie Medieninformatik oder Bioinformatik kombinieren Informatik mit Fachwissen in bestimmten Anwendungsbereichen. Mein Eindruck ist aber, dass die meisten außerhalb dieser Bereiche arbeiten. Daher finde ich eigentlich Informatik oder Wirtschaftsinformatik am sinnvollsten.
+Fächer wie Medieninformatik oder Bioinformatik kombinieren Informatik mit Fachwissen in bestimmten Anwendungsbereichen. Mein Eindruck ist aber, dass die meisten außerhalb dieser Bereiche arbeiten. Daher finde ich eigentlich Informatik oder Wirtschaftsinformatik am sinnvollsten. Wer sich allerdings in bestimmte Bereiche vertiefen will, sollte auch das dazu passende Studium wählen.
 
 ##Würdest Du wieder studieren?
 

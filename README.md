@@ -1,8 +1,11 @@
 #Informatik-als-Beruf-FAQ
 
-*"Sie wollen Informatik studieren? Ach, da studieren Sie doch in die Arbeitslosigkeit. Werden Sie lieber [Versicherungsmathematiker](https://de.wikipedia.org/wiki/Versicherungsmathematik), das hat Zukunft!"* (Originalzitat eines Berufsberaters zu Abiturienten des Jahrgangs 1991) Dann kam das Internet und das World Wide Web, die New Economy, mobile - und heute ist Informatik immer noch ein wichtiges Betätigungsfeld.
+> *"Informatik? Ach, da studieren Sie doch in die Arbeitslosigkeit. Werden Sie lieber [Versicherungsmathematiker](https://de.wikipedia.org/wiki/Versicherungsmathematik), das hat Zukunft!"*
+> (Originalzitat eines Berufsberaters zu Abiturienten des Jahrgangs 1991)
 
-Hintergrund: Ich berate ab und zu mal Schüler zu dem Thema Informatik. Ich habe hier wesentliche Punkte aufgeschrieben. Diskussionen bitte als Issues einstellen. Änderungsvorschläge gerne als Pull Request. Persönliche Nachfragen bitte an eberhard.wolff@gmail.com . Die FAQ findet sich unter https://github.com/ewolff/InformatikFAQ .
+Dann kam das Internet und das World Wide Web, die New Economy, Mobile - und heute ist Informatik immer noch ein wichtiges Betätigungsfeld.
+
+Hintergrund: Ich berate ab und zu mal Schüler zu dem Thema Informatik. Ich habe hier wesentliche Punkte aufgeschrieben. Die FAQ findet sich unter [github.com/ewolff/InformatikFAQ](https://github.com/ewolff/InformatikFAQ). Diskussionen bitte als Issues einstellen. Änderungsvorschläge gerne als Pull Request. Persönliche Nachfragen bitte an [eberhard.wolff@gmail.com](mailto:eberhard.wolff@gmail.com).
 
 Die FAQ soll nicht konkrete Studien- oder Ausbildungsmöglichkeiten aufzeigen, sondern allgemeine Hinweise und eine erste Orientierung bieten. Weitere Quellen findet man im Internet sicher leicht.
 

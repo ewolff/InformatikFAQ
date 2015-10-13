@@ -1,6 +1,7 @@
 #Informatik-als-Beruf-FAQ
 
 > *"Informatik? Ach, da studieren Sie doch in die Arbeitslosigkeit. Werden Sie lieber [Versicherungsmathematiker](https://de.wikipedia.org/wiki/Versicherungsmathematik), das hat Zukunft!"*
+>
 > (Originalzitat eines Berufsberaters zu Abiturienten des Jahrgangs 1991)
 
 Dann kam das Internet und das World Wide Web, die New Economy, Mobile - und heute ist Informatik immer noch ein wichtiges Betätigungsfeld.

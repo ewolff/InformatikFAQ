@@ -22,7 +22,7 @@ Im Mittelpunkt steht meistens die Entwicklung von Software zur Unterstützung vo
 * Steuerung von Produktionsprozessen in jeglicher Art von Fabrikanlagen, beispielsweise in der chemischen Industrie, der Automobilbranche oder dem Maschinenbau. 
 * Steuerung unserer Energieversorgung: Stromerzeugung, -verteilung und -verkauf.
 * Roboter
-* Jegliche Art anspruchsvoller Elektronik, also DVD-/Blueray-Player, alle Arten von Audio-/Soundgeräten, Navigationsgeräte, moderne Wasch- und Spülmaschinen, Telefone
+* Jegliche Art anspruchsvoller Elektronik, also DVD-/Blu-ray-Player, alle Arten von Audio-/Soundgeräten, Navigationsgeräte, moderne Wasch- und Spülmaschinen, Telefone
 
 
 Darüber hinaus gibt es viele Unternehmen, die über das Web oder mobile Apps direkt ihr Geschäft betreiben - beispielsweise als ECommerce-Unternehmen. Die meisten Informatiker sind in diesen Bereichen beschäftigt. Entweder als Mitarbeiter der Firmen oder bei IT-Dienstleistern (genannt IT-Berater). Spieleentwicklung o.ä. nimmt nur einen kleinen Teil des Marktes ein.

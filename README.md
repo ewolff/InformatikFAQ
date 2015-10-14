@@ -148,7 +148,7 @@ Aber: Software-Entwicklung ist oft wie das Erarbeiten eines Lösungsansatzes fü
 
 ##Wie ist der Frauen-Anteil?
 
-Viel zu niedrig. Es gibt aber Initiativen, die versuchen, dieses Problem zu lösen.
+Viel zu niedrig. Es gibt aber Initiativen, die versuchen, den Frauen-Anteil zu erhöhen. Nicht zuletzt aufgrund des hohen Anteils an Kommunikation im Berufsleben, sind Frauen in der Informatik durchaus gefragt.
 
 ##Lizenz der FAQ
 

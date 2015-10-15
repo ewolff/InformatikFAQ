@@ -14,7 +14,7 @@ Die FAQ soll nicht konkrete Studien- oder Ausbildungsmöglichkeiten aufzeigen, s
 
 Sehr gut. Typischerweise sind IT-Unternehmen im Wachstum durch den Mangel an qualifizierten Arbeitskräften begrenzt. Nur in der Krise 2000/2001 und in einem geringeren Maße 2008 war die Situation nicht so gut. Software wird in allen Branchen immer wichtiger, so dass die Situation sich nicht ändern sollte. Aktuell zeigen das Trends wie IoT (Internet of Things) und Digitalisierung, die Software auch in vielen anderen Branchen sehr wichtig machen werden.
 
-Software wird aber seit Jahren in allen Branchen immer wichtiger, so dass diese positive Situation sich auf absehbare Zeit nicht ändern sollte. 
+Software wird aber seit Jahren in allen Branchen immer wichtiger, so dass diese positive Situation sich auf absehbare Zeit nicht ändern sollte.
 
 Bedarf für Informatiker gibt es auch in fast allen Branchen.
 
@@ -22,13 +22,15 @@ Bedarf für Informatiker gibt es auch in fast allen Branchen.
 
 Im Mittelpunkt steht meistens die Entwicklung von Software zur Unterstützung von Geschäftsprozessen, oder Maschinen - also beispielsweise:
 
-* Automatisierung von Lagerverwaltung. 
+* Automatisierung von Lagerverwaltung.
 * Steuerung und Regelung in Maschinen, beispielsweise Autos, Flugzeugen, Schiffen.
-* Steuerung von Produktionsprozessen in jeglicher Art von Fabrikanlagen, beispielsweise in der chemischen Industrie, der Automobilbranche oder dem Maschinenbau. 
+* Steuerung von Produktionsprozessen in jeglicher Art von Fabrikanlagen, beispielsweise in der chemischen Industrie, der Automobilbranche oder dem Maschinenbau.
 * Steuerung unserer Energieversorgung: Stromerzeugung, -verteilung und -verkauf.
 * Roboter
 * Jegliche Art anspruchsvoller Elektronik, also DVD-/Blu-ray-Player, alle Arten von Audio-/Soundgeräten, Navigationsgeräte, moderne Wasch- und Spülmaschinen, Telefone
+* Verwaltung von Kunden- und Geschäftsdaten in z.B. Banken, Versicherungen und anderen Firmen und Konzernen
 
+Viele größere Firmen erstellen eigene Software, um ihren Arbeitszweck speziell zu unterstützen.
 Darüber hinaus gibt es viele Unternehmen, die über das Web oder mobile Apps direkt ihr Geschäft betreiben - beispielsweise als ECommerce-Unternehmen. Die meisten Informatiker sind in diesen Bereichen beschäftigt. Entweder als Mitarbeiter der Firmen oder bei IT-Dienstleistern (genannt IT-Berater). Spieleentwicklung o.ä. nimmt nur einen kleinen Teil des Marktes ein.
 
 ### Rund um die "Entwicklung"...
@@ -46,11 +48,11 @@ Abstimmungstätigkeiten an.
 
 ##Wie mache ich als Informatiker Karriere?
 
-_Karriere_ kann hierbei mehrere Dinge bedeuten: 
+_Karriere_ kann hierbei mehrere Dinge bedeuten:
 
-1. Mehr Geld, 
-2. mehr Entscheidungsbefugnis (geht meistens mit 1. einher), 
-3. mehr inhaltliche Verantwortung 
+1. Mehr Geld,
+2. mehr Entscheidungsbefugnis (geht meistens mit 1. einher),
+3. mehr inhaltliche Verantwortung
 4. mehr technische Verantwortung (von 1. oft unabhängig)
 5. mehr Personalverantwortung (geht meist mit 1. einher)
 
@@ -77,7 +79,7 @@ Das gelingt Menschen mit viel Berufserfahrung und Spezialwissen natürlich leich
 ### Hoher Anteil an Kommunikation mit anderen Menschen
 Informatiker müssen sehr viel kommunizieren:
 
-* mit Kunden, um zu verstehen, was genau umgesetzt werden muss. 
+* mit Kunden, um zu verstehen, was genau umgesetzt werden muss.
 * mit anderen Informatikern: Da praktisch jedes ernsthafte Projekt für einen einzigen Entwickler zu groß ist, müssen Informatiker auch untereinander kommunizieren. Informatiker müssen also viel mehr als nur Technik können. Den einsamen Technik-Hacker gibt es immer noch - aber nur sehr selten für sehr spezielle Aufgaben.
 
 ### Möglichkeiten flexibler Arbeitsgestaltung
@@ -86,7 +88,7 @@ Informatiker benötigen zur Arbeit oft nicht viel mehr als einen Laptop - daher 
 Einige unserer Kollegen arbeiten oft zuhause oder in Co-Working Spaces, wo sie sich einen Schreibtisch mieten.
 
 ### Immens hoher Anteil an ständiger Weiterbildung
-Erkenntnisse bzw. technische Grundlagen der Informatik entwickeln sich ständig 
+Erkenntnisse bzw. technische Grundlagen der Informatik entwickeln sich ständig
 weiter. Das bedeutet, dass Wissen
 ziemlich schnell veraltet - und Informatiker ständig mit ihrer eigenen Weiterbildung
 beschäftigt sein müssen (!!).
@@ -142,11 +144,11 @@ Ja und auch wieder an der Uni. Ich fand die Theorie spannend und habe Themen wie
 
 Mathematik kann im Studium einen wichtigen Teil einnehmen - in meinem war es allerdings nicht so. Siehe auch oben: Es kann zu den Nebenfächern gehören.
 
-Aber: Software-Entwicklung ist oft wie das Erarbeiten eines Lösungsansatzes für Text-Aufgaben in der Mathematik. Wichtig ist, wie man aus einer Aufgabe eine mathematisches Gebilde entwickelt. Damit versorgt man dann den Computer, der die Berechnungen anstellt. Daher ist mathematisches Denken schon wichtig - aber nicht konkretes Mathematik-Wissen.
+Aber: Software-Entwicklung ist oft wie das Erarbeiten eines Lösungsansatzes für Text-Aufgaben in der Mathematik. Wichtig ist, wie man aus einer Aufgabe ein mathematisches Gebilde entwickelt. Damit versorgt man dann den Computer, der die Berechnungen anstellt. Daher ist mathematisches Denken schon wichtig - aber nicht konkretes Mathematik-Wissen.
 
 ##Wie ist der Frauen-Anteil?
 
-Viel zu niedrig. Es gibt aber Initiativen, die versuchen, dieses Problem zu lösen.
+Viel zu niedrig. Es gibt aber Initiativen, die versuchen, den Frauen-Anteil zu erhöhen. Nicht zuletzt aufgrund des hohen Anteils an Kommunikation im Berufsleben, sind Frauen in der Informatik durchaus gefragt.
 
 ##Lizenz der FAQ
 

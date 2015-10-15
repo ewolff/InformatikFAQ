@@ -79,7 +79,7 @@ Das gelingt Menschen mit viel Berufserfahrung und Spezialwissen natürlich leich
 ### Hoher Anteil an Kommunikation mit anderen Menschen
 Informatiker müssen sehr viel kommunizieren:
 
-* mit Kunden, um zu verstehen, was genau umgesetzt werden muss.
+* mit Kunden, um zu verstehen, was genau umgesetzt werden muss. Oft auch auf Englisch.
 * mit anderen Informatikern: Da praktisch jedes ernsthafte Projekt für einen einzigen Entwickler zu groß ist, müssen Informatiker auch untereinander kommunizieren. Informatiker müssen also viel mehr als nur Technik können. Den einsamen Technik-Hacker gibt es immer noch - aber nur sehr selten für sehr spezielle Aufgaben.
 
 ### Möglichkeiten flexibler Arbeitsgestaltung

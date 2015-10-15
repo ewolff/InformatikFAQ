@@ -156,6 +156,6 @@ Viel zu niedrig. Es gibt aber Initiativen, die versuchen, den Frauen-Anteil zu e
 
 Creative Common Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen
 
-Es ist erlaubt, die FAQ zu verbreiten, zu remixen, zu verbessern und darauf aufzubauen, allerdings nur nicht-kommerziell und solange Eberhard Wolff als Urheber des Originals genannt wird und die auf der FAQ basierenden neuen Werke unter denselben Bedingungen veröffentlicht werden.
+Es ist erlaubt, die FAQ zu verbreiten, zu remixen, zu verbessern und darauf aufzubauen, allerdings nur nicht-kommerziell und solange https://github.com/ewolff/InformatikFAQ als Quelle des Originals genannt wird und die auf der FAQ basierenden neuen Werke unter denselben Bedingungen veröffentlicht werden.
 
 Siehe https://creativecommons.org/licenses/by-nc-sa/4.0/

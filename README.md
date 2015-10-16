@@ -115,7 +115,11 @@ Generell wird allerdings eher zum Studium geraten.
 
 Meistens geht es in der Branche um die Fähigkeiten und weniger, wie man sie erworben hat. Auch ein abgebrochenes Studium kann als Qualifikation genügen. Man kann sich also durchaus hocharbeiten, indem man das notwendige Wissen in der Praxis erwirbt. Einige Unternehmen legen allerdings Wert auf eine formale Qualifikation.
 
-FH ist eher praktisch, Uni eher theoretisch und breiter angelegt - man muss entschieden, was man lieber mag. Ich persönlich finde eine Ausbildung nicht so sinnvoll, habe aber auch schon mit sehr guten Leuten zusammengearbeitet, die eine Ausbildung gemacht haben. Promotion finde ich persönlich übertrieben (sagt @ewolff). Immer öfter trifft man auch im Bereich Informatik auf "duale" Studiengänge, d.h. die Ausbildung ist aufgeteilt in einen wissenschaftlichen/theoretischen Teil an der Hochschule und einen praktischen Bereich im Unternehmen. War dies vor einigen Jahren noch eine alleinige Domäne der Berufsakademien (BA), trifft man diese Form heute auch zunehmend an Fach- und Technischen Hochschulen an (z.B. an der [Technischen Hochschule Mittelhessen](http://www.thm.de/site/studium/sie-wollen-studieren/studiengaenge.html?filter=Wetzlar)).
+FH ist eher praktisch, Uni eher theoretisch und breiter angelegt - man muss entschieden, was man lieber mag. Ich persönlich finde eine Ausbildung nicht so sinnvoll, habe aber auch schon mit sehr guten Leuten zusammengearbeitet, die eine Ausbildung gemacht haben.
+
+Immer öfter trifft man auch im Bereich Informatik auf "duale" Studiengänge, d.h. die Ausbildung ist aufgeteilt in einen wissenschaftlichen/theoretischen Teil an der Hochschule und einen praktischen Bereich im Unternehmen. War dies vor einigen Jahren noch eine alleinige Domäne der Berufsakademien (BA), trifft man diese Form heute auch zunehmend an Fach- und Technischen Hochschulen an.
+
+Promotion finde ich persönlich übertrieben (sagt @ewolff).
 
 Ergänzende Bemerkung von Gernot Starke (ich habe in Informatik promoviert): Mir hat
 die Promotion in meinen beratenden Tätigkeiten ungeheuer viel geholfen: In Diskussionen

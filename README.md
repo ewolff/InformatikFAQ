@@ -4,7 +4,7 @@
 >
 > (Originalzitat eines Berufsberaters zu Abiturienten des Jahrgangs 1991)
 
-Dann kam das Internet und das World Wide Web, die New Economy, Mobile - und heute ist Informatik immer noch ein wichtiges Betätigungsfeld.
+Dann kam das Internet und das World Wide Web, die New Economy, Mobile - und heute ist Informatik mehr denn je ein wichtiges Betätigungsfeld.
 
 Hintergrund: Ich berate ab und zu mal Schüler zu dem Thema Informatik. Ich habe hier wesentliche Punkte aufgeschrieben. Die FAQ findet sich unter [github.com/ewolff/InformatikFAQ](https://github.com/ewolff/InformatikFAQ). Diskussionen bitte als Issues einstellen. Änderungsvorschläge gerne als Pull Request. Persönliche Nachfragen bitte an [eberhard.wolff@gmail.com](mailto:eberhard.wolff@gmail.com).
 
@@ -12,7 +12,7 @@ Die FAQ soll nicht konkrete Studien- oder Ausbildungsmöglichkeiten aufzeigen, s
 
 ##Wie sind die Berufsaussichten?
 
-Sehr gut. Typischerweise sind IT-Unternehmen im Wachstum durch den Mangel an qualifizierten Arbeitskräften begrenzt. Nur in der Krise 2000/2001 und in einem geringeren Maße 2008 war die Situation nicht so gut. Software wird in allen Branchen immer wichtiger, so dass die Situation sich nicht ändern sollte. Aktuell zeigen das Trends wie IoT (Internet of Things) und Digitalisierung, die Software auch in vielen anderen Branchen sehr wichtig machen werden.
+Sehr gut. Typischerweise sind IT-Unternehmen in ihrem Wachstum durch den Mangel an qualifizierten Arbeitskräften begrenzt. Nur in der Krise 2000/2001 und in einem geringeren Maße 2008 war die Situation nicht so gut. Aktuell zeigen das Trends wie IoT (Internet of Things) und Digitalisierung, die Software auch in vielen anderen Branchen sehr wichtig machen werden.
 
 Software wird aber seit Jahren in allen Branchen immer wichtiger, so dass diese positive Situation sich auf absehbare Zeit nicht ändern sollte.
 
@@ -85,7 +85,8 @@ Informatiker müssen sehr viel kommunizieren:
 * mit anderen Informatikern: Da praktisch jedes ernsthafte Projekt für einen einzigen Entwickler zu groß ist, müssen Informatiker auch untereinander kommunizieren. Informatiker müssen also viel mehr als nur Technik können. Den einsamen Technik-Hacker gibt es immer noch - aber nur sehr selten für sehr spezielle Aufgaben.
 
 ### Möglichkeiten flexibler Arbeitsgestaltung
-Informatiker benötigen zur Arbeit oft nicht viel mehr als einen Laptop - daher ist Arbeit von zu Hause aus oder in Form von anderen innovativen Arbeitsweisen viel häufiger in der Informatik zu finden.
+Informatiker benötigen zur Arbeit oft nicht viel mehr als einen Laptop - daher ist Arbeit von zu Hause aus oder in Form von anderen innovativen Arbeitsweisen in 
+der Informatik viel häufiger zu finden als in anderen Branchen.
 
 Einige unserer Kollegen arbeiten oft zuhause oder in Co-Working Spaces, wo sie sich einen Schreibtisch mieten.
 
@@ -138,7 +139,8 @@ Im Wesentlichen:
 
 * Theoretische Informatik - Algorithmen, was kann mit welchem Aufwand berechnet werden?
 
-* Mathematik, Nebenfächer (je nach Uni)
+* Mathematik oder sonstige Nebenfächer (je nach Uni, beispielsweise Physik, Wirtschaft,
+Medizin, Elektrotechnik, Maschinenbau)
 
 Fächer wie Medieninformatik oder Bioinformatik kombinieren Informatik mit Fachwissen in bestimmten Anwendungsbereichen. Mein Eindruck ist aber, dass die meisten außerhalb dieser Bereiche arbeiten. Daher finde ich eigentlich Informatik oder Wirtschaftsinformatik am sinnvollsten. Wer sich allerdings in bestimmte Bereiche vertiefen will, sollte auch das dazu passende Studium wählen.
 
@@ -146,11 +148,16 @@ Fächer wie Medieninformatik oder Bioinformatik kombinieren Informatik mit Fachw
 
 Ja und auch wieder an der Uni. Ich fand die Theorie spannend und habe Themen wie funktionale Programmierung kennengelernt, die erst in den letzten Jahren aktuell wurden.
 
+Ergänzung Gernot Starke (ich habe an der RWTH Aachen studiert): Ja, und auch 
+gerne wieder an der Uni. 
+
+
 ##Benötige ich Mathematik-Kenntnisse?
 
 Mathematik kann im Studium einen wichtigen Teil einnehmen - in meinem war es allerdings nicht so. Siehe auch oben: Es kann zu den Nebenfächern gehören.
 
-Aber: Software-Entwicklung ist oft wie das Erarbeiten eines Lösungsansatzes für Text-Aufgaben in der Mathematik. Wichtig ist, wie man aus einer Aufgabe ein mathematisches Gebilde entwickelt. Damit versorgt man dann den Computer, der die Berechnungen anstellt. Daher ist mathematisches Denken schon wichtig - aber nicht konkretes Mathematik-Wissen.
+Aber: Software-Entwicklung ist oft wie das Erarbeiten eines Lösungsansatzes für Text-Aufgaben in der Mathematik. Wichtig ist, wie man aus einer Aufgabe ein mathematisches Gebilde entwickelt. Damit versorgt man dann den Computer, der die Berechnungen anstellt. Daher ist mathematisches _Denken_ schon wichtig, weniger das konkrete Mathematik-Wissen.
+
 
 ##Wie ist der Frauen-Anteil?
 

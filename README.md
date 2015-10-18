@@ -158,7 +158,9 @@ Aber: Software-Entwicklung ist oft wie das Erarbeiten eines Lösungsansatzes fü
 
 ##Wie ist der Frauen-Anteil?
 
-Viel zu niedrig. Es gibt aber Initiativen, die versuchen, den Frauen-Anteil zu erhöhen. Nicht zuletzt aufgrund des hohen Anteils an Kommunikation im Berufsleben, sind Frauen in der Informatik durchaus gefragt.
+Viel zu niedrig. Es gibt aber Initiativen, die versuchen, den Frauen-Anteil zu erhöhen.
+
+Gerade der von vielen unterschätzte kommunikative Teil der Arbeit wird sozialisationsbedingt von Frauen wegen der geschlechtertypische Erziehung besser ausgefüllt. Daher sind sie gerade in der Informatik, einem „typisch männlichen Feld“, sehr gefragt.  Insbesondere die geschlechtertypische Erziehung ist bei genauerem Hinsehen ein Vorteil, da Frauen andere Blickwinkel auf Probleme in der Programmierung mitbringen und so die Kreativität und Produktivität des zumeist hauptsächlich männlichen Arbeitsumfelds steigern.
 
 ##Lizenz der FAQ
 

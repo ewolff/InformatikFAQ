@@ -1,4 +1,4 @@
-#Informatik-als-Beruf-FAQ
+# Informatik-als-Beruf-FAQ
 
 > *"Informatik? Ach, da studieren Sie doch in die Arbeitslosigkeit. Werden Sie lieber [Versicherungsmathematiker](https://de.wikipedia.org/wiki/Versicherungsmathematik), das hat Zukunft!"*
 >
@@ -10,13 +10,13 @@ Hintergrund: Ich berate ab und zu mal Schüler zu dem Thema Informatik. Ich habe
 
 Die FAQ soll nicht konkrete Studien- oder Ausbildungsmöglichkeiten aufzeigen, sondern allgemeine Hinweise und eine erste Orientierung bieten. Weitere Quellen findet man im Internet sicher leicht.
 
-##Wie sind die Berufsaussichten?
+## Wie sind die Berufsaussichten?
 
 Sehr gut. Typischerweise sind IT-Unternehmen in ihrem Wachstum durch den Mangel an qualifizierten Arbeitskräften begrenzt. Nur in der Krise 2000/2001 und in einem geringeren Maße 2008 war die Situation nicht so gut. Aktuell zeigen das Trends wie IoT (Internet of Things) und Digitalisierung, die Software auch in vielen anderen Branchen sehr wichtig machen werden.
 
 Software wird aber seit Jahren in allen Branchen immer wichtiger, so dass diese positive Situation sich auf absehbare Zeit nicht ändern sollte. Bedarf für Informatiker gibt es daher in fast allen Branchen.
 
-##Was arbeitet ein Informatiker typischerweise?
+## Was arbeitet ein Informatiker typischerweise?
 
 Im Mittelpunkt steht meistens die Entwicklung von Software. Beispielsweise für:
 
@@ -44,7 +44,7 @@ für die Informatiker _prädestiniert_ sind:
 von Dutzenden unterschiedlicher Personen bearbeitet... da fallen jede Menge interessanter
 Abstimmungstätigkeiten an.
 
-##Wie mache ich als Informatiker Karriere?
+## Wie mache ich als Informatiker Karriere?
 
 _Karriere_ kann hierbei mehrere Dinge bedeuten:
 
@@ -72,7 +72,7 @@ einem hohen Maß an Selbstbestimmung und persönlichen Freiräumen erreichen.
 
 Das gelingt Menschen mit viel Berufserfahrung und Spezialwissen natürlich leichter.
 
-##Welche Überraschungen gibt es im Berufsbild?
+## Welche Überraschungen gibt es im Berufsbild?
 
 ### Hoher Anteil an Kommunikation mit anderen Menschen
 Informatiker müssen sehr viel kommunizieren:
@@ -98,7 +98,7 @@ Motivation.
 
 Allerdings: Entwickler mit Wissen der Programmiersprache COBOL aus den 60er-80er Jahren des letzten Jahrhunderts werden immer noch gesucht.
 
-##Ich will Computerspiele entwickeln! Hilft mir dafür eine Ausbildung zum Informatiker?
+## Ich will Computerspiele entwickeln! Hilft mir dafür eine Ausbildung zum Informatiker?
 
 Ja. Aber...
 
@@ -110,7 +110,7 @@ Die von den Entwicklern zu lösenden Probleme unterscheiden sich teilweise deutl
 
 Generell wird allerdings eher zum Studium geraten.
 
-##FH / Uni / Promotion / Ausbildung?
+## FH / Uni / Promotion / Ausbildung?
 
 Meistens geht es in der Branche um die Fähigkeiten und weniger, wie man sie erworben hat. Auch ein abgebrochenes Studium kann als Qualifikation genügen. Man kann sich durchaus hocharbeiten, indem man das notwendige Wissen in der Praxis erwirbt. Einige Unternehmen legen allerdings Wert auf eine formale Qualifikation.
 
@@ -127,7 +127,7 @@ meines Doktortitels) oftmals nicht mehr meine Informatik-Kompetenz _begründen_ 
 
 Im öffentlichen Dienst sind die Gehälter an den Studienabschluss gekoppelt. Die Gehälter sind im Vergleich zur Industrie aber niedriger. Dafür gibt es im öffentlichen Dienst beispielsweise wesentlich kürzere Arbeitszeiten. Für den öffentlichen Dienst ist ein Studium also sehr sinnvoll.
 
-##Was lernt man im Studium?
+## Was lernt man im Studium?
 
 Im Wesentlichen:
 
@@ -142,7 +142,7 @@ Medizin, Elektrotechnik, Maschinenbau)
 
 Fächer wie Medieninformatik oder Bioinformatik kombinieren Informatik mit Fachwissen in bestimmten Anwendungsbereichen. Mein Eindruck ist, dass die meisten nach dem Abschluss außerhalb dieser Bereiche arbeiten. Daher finde ich eigentlich Informatik oder Wirtschaftsinformatik am sinnvollsten. Wer sich allerdings in bestimmte Bereiche vertiefen will, sollte das dazu passende Studium wählen.
 
-##Würdest Du wieder studieren?
+## Würdest Du wieder studieren?
 
 Ja und auch wieder an der Uni. Ich fand die Theorie spannend und habe Themen wie funktionale Programmierung kennengelernt, die erst in den letzten Jahren aktuell wurden.
 
@@ -150,19 +150,19 @@ Ergänzung Gernot Starke (ich habe an der RWTH Aachen studiert): Ja, und auch
 gerne wieder an der Uni. 
 
 
-##Benötige ich Mathematik-Kenntnisse?
+## Benötige ich Mathematik-Kenntnisse?
 
 Mathematik kann im Studium einen wichtigen Teil einnehmen - in meinem war es allerdings nicht so. Siehe auch oben: Es kann zu den Nebenfächern gehören.
 
 Aber: Software-Entwicklung ist oft wie das Erarbeiten eines Lösungsansatzes für Text-Aufgaben in der Mathematik. Wichtig ist, wie man aus einer Aufgabe ein mathematisches Gebilde entwickelt. Damit versorgt man dann den Computer, der die Berechnungen anstellt. Daher ist mathematisches _Denken_ schon wichtig, weniger das konkrete Mathematik-Wissen.
 
-##Wie ist der Frauen-Anteil?
+## Wie ist der Frauen-Anteil?
 
 Viel zu niedrig. Es gibt aber Initiativen, die versuchen, den Frauen-Anteil zu erhöhen.
 
 Gerade der von vielen unterschätzte kommunikative Teil der Arbeit wird sozialisationsbedingt von Frauen wegen der geschlechtertypische Erziehung besser ausgefüllt. Daher sind sie gerade in der Informatik, einem „typisch männlichen Feld“, sehr gefragt.  Insbesondere die geschlechtertypische Erziehung ist bei genauerem Hinsehen ein Vorteil, da Frauen andere Blickwinkel auf Probleme in der Programmierung mitbringen und so die Kreativität und Produktivität des zumeist hauptsächlich männlichen Arbeitsumfelds steigern.
 
-##Lizenz der FAQ
+## Lizenz der FAQ
 
 Creative Common Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen
 

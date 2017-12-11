@@ -125,7 +125,7 @@ die Promotion in meinen beratenden Tätigkeiten ungeheuer viel geholfen: In Disk
 mit leitenden Managern, Geschäftsführern und Vorständen brauche ich (aufgrund
 meines Doktortitels) oftmals nicht mehr meine Informatik-Kompetenz _begründen_ oder irgendwie _belegen_, sondern wurde aufgrund des Titels als _sachkundiger Gesprächspartner_ akzeptiert. Das hat mir persönlich viel geholfen. Ich habe meine Promotion allerdings auch mit sehr praktischer Arbeit verbinden können...
 
-Im öffentlichen Dienst sind die Gehälter an den Studienabschluss gekoppelt. Die Gehälter sind im Vergleich zur Industrie aber niedriger. Dafür gibt es im öffentlichen Dienst beispielsweise wesentlich kürzere Arbeitszeiten. Für den öffentlichen Dienst ist ein Studium also sehr sinnvoll.
+Im öffentlichen Dienst sind die Gehälter an den Studienabschluss gekoppelt, im Vergleich zur Industrie aber meist niedriger. Dafür gibt es in der Regel weniger Überstunden. Auf Grund der Bindung des Gehalts an den Abschluss ist ein Studium für den öffentlichen Dienst also sehr sinnvoll.
 
 ## Was lernt man im Studium?
 

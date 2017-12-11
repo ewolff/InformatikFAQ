@@ -29,7 +29,7 @@ Im Mittelpunkt steht meistens die Entwicklung von Software. Beispielsweise für:
 * Verwaltung von Kunden- und Geschäftsdaten in z.B. Banken, Versicherungen und anderen Firmen und Konzernen
 * Viele größere Firmen erstellen eigene Software, um ihren Arbeitszweck speziell zu unterstützen.
 
-Darüber hinaus gibt es viele Unternehmen, die über das Web oder mobile Apps direkt ihr Geschäft betreiben - beispielsweise als ECommerce-Unternehmen. Die meisten Informatiker sind in diesen Bereichen beschäftigt. Entweder als Mitarbeiter der Firmen oder bei IT-Dienstleistern (genannt IT-Berater). Spieleentwicklung, Hardware-Entwicklung o.ä. nimmt nur einen kleinen Teil des Marktes ein.
+Darüber hinaus gibt es viele Unternehmen, die über das Web oder mobile Apps direkt ihr Geschäft betreiben - beispielsweise als E-Commerce-Unternehmen. Die meisten Informatiker sind in diesen Bereichen beschäftigt. Entweder als Mitarbeiter der Firmen oder bei IT-Dienstleistern (genannt IT-Berater). Spieleentwicklung, Hardware-Entwicklung o.ä. nimmt nur einen kleinen Teil des Marktes ein.
 
 ### Rund um die "Entwicklung"...
 Neben der reinen Programmierung gehören zur Entwicklung anspruchsvoller (größerer,
@@ -50,9 +50,9 @@ _Karriere_ kann hierbei mehrere Dinge bedeuten:
 
 1. Mehr Geld,
 2. mehr Entscheidungsbefugnis (geht meistens mit 1. einher),
-3. mehr inhaltliche Verantwortung
-4. mehr technische Verantwortung (von 1. oft unabhängig)
-5. mehr Personalverantwortung (geht meist mit 1. einher)
+3. mehr inhaltliche Verantwortung,
+4. mehr technische Verantwortung (von 1. oft unabhängig),
+5. mehr Personalverantwortung (geht meist mit 1. einher).
 
 Typischerweise beginnt man als Entwickler und wird später Projektleiter. Damit erreicht man (1), (2) und (5).
 
@@ -125,7 +125,7 @@ die Promotion in meinen beratenden Tätigkeiten ungeheuer viel geholfen: In Disk
 mit leitenden Managern, Geschäftsführern und Vorständen brauche ich (aufgrund
 meines Doktortitels) oftmals nicht mehr meine Informatik-Kompetenz _begründen_ oder irgendwie _belegen_, sondern wurde aufgrund des Titels als _sachkundiger Gesprächspartner_ akzeptiert. Das hat mir persönlich viel geholfen. Ich habe meine Promotion allerdings auch mit sehr praktischer Arbeit verbinden können...
 
-Im öffentlichen Dienst sind die Gehälter an den Studienabschluss gekoppelt. Die Gehälter sind im Vergleich zur Industrie aber niedriger. Dafür gibt es im öffentlichen Dienst beispielsweise wesentlich kürzere Arbeitszeiten. Für den öffentlichen Dienst ist ein Studium also sehr sinnvoll.
+Im öffentlichen Dienst sind die Gehälter an den Studienabschluss gekoppelt, im Vergleich zur Industrie aber meist niedriger. Dafür gibt es in der Regel weniger Überstunden. Auf Grund der Bindung des Gehalts an den Abschluss ist ein Studium für den öffentlichen Dienst also sehr sinnvoll.
 
 ## Was lernt man im Studium?
 

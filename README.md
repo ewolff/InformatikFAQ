@@ -29,7 +29,7 @@ Im Mittelpunkt steht meistens die Entwicklung von Software. Beispielsweise für:
 * Verwaltung von Kunden- und Geschäftsdaten in z.B. Banken, Versicherungen und anderen Firmen und Konzernen
 * Viele größere Firmen erstellen eigene Software, um ihren Arbeitszweck speziell zu unterstützen.
 
-Darüber hinaus gibt es viele Unternehmen, die über das Web oder mobile Apps direkt ihr Geschäft betreiben - beispielsweise als ECommerce-Unternehmen. Die meisten Informatiker sind in diesen Bereichen beschäftigt. Entweder als Mitarbeiter der Firmen oder bei IT-Dienstleistern (genannt IT-Berater). Spieleentwicklung, Hardware-Entwicklung o.ä. nimmt nur einen kleinen Teil des Marktes ein.
+Darüber hinaus gibt es viele Unternehmen, die über das Web oder mobile Apps direkt ihr Geschäft betreiben - beispielsweise als E-Commerce-Unternehmen. Die meisten Informatiker sind in diesen Bereichen beschäftigt. Entweder als Mitarbeiter der Firmen oder bei IT-Dienstleistern (genannt IT-Berater). Spieleentwicklung, Hardware-Entwicklung o.ä. nimmt nur einen kleinen Teil des Marktes ein.
 
 ### Rund um die "Entwicklung"...
 Neben der reinen Programmierung gehören zur Entwicklung anspruchsvoller (größerer,

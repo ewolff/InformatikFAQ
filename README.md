@@ -79,7 +79,7 @@ Informatiker müssen sehr viel kommunizieren:
 
 * mit Kunden, um zu verstehen, was genau umgesetzt werden muss. 
 * mit anderen Informatikern: Da praktisch jedes ernsthafte Projekt für einen einzigen Entwickler zu groß ist, müssen Informatiker auch untereinander kommunizieren. 
-* des Öfteren auch auf Englisch gerade in internationalen Unternehmen
+* des Öfteren auch auf Englisch, gerade in internationalen Unternehmen
 
 Informatiker müssen also viel mehr als nur Technik können. Den einsamen Technik-Hacker gibt es immer noch - aber nur sehr selten für sehr spezielle Aufgaben.
 

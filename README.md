@@ -50,9 +50,9 @@ _Karriere_ kann hierbei mehrere Dinge bedeuten:
 
 1. Mehr Geld,
 2. mehr Entscheidungsbefugnis (geht meistens mit 1. einher),
-3. mehr inhaltliche Verantwortung
-4. mehr technische Verantwortung (von 1. oft unabhängig)
-5. mehr Personalverantwortung (geht meist mit 1. einher)
+3. mehr inhaltliche Verantwortung,
+4. mehr technische Verantwortung (von 1. oft unabhängig),
+5. mehr Personalverantwortung (geht meist mit 1. einher).
 
 Typischerweise beginnt man als Entwickler und wird später Projektleiter. Damit erreicht man (1), (2) und (5).
 

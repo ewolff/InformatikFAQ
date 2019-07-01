@@ -21,10 +21,12 @@ Software wird aber seit Jahren in allen Branchen immer wichtiger, so dass diese 
 Im Mittelpunkt steht meistens die Entwicklung von Software. Beispielsweise für:
 
 * Automatisierung von Lagerverwaltung.
-* Steuerung und Regelung in Maschinen, beispielsweise Autos, Flugzeugen, Schiffen.
-* Steuerung von Produktionsprozessen in jeglicher Art von Fabrikanlagen, beispielsweise in der chemischen Industrie, der Automobilbranche oder dem Maschinenbau.
-* Steuerung unserer Energieversorgung: Stromerzeugung, -verteilung und -verkauf.
+* Steuerung und Regelung in Maschinen, beispielsweise Autos, Flugzeugen, Schiffen
+* Steuerung von Produktionsprozessen in jeglicher Art von Fabrikanlagen, beispielsweise in der chemischen Industrie, der Automobilbranche oder dem Maschinenbau
+* Steuerung von Transport- und Logistikprozessen, beispielsweise dem Transport von Paketen mit Sendungsverfolgung und Wegeoptimierung, oder auch der Gepäckförderung an Flughäfen
+* Steuerung unserer Energieversorgung: Stromerzeugung, -verteilung und -verkauf
 * Roboter
+* Sensorik (Licht-, Entfernungs-, Temperatur-, Druck- oder Feuchtemessung)
 * Jegliche Art anspruchsvoller Elektronik, also DVD-/Blu-ray-Player, alle Arten von Audio-/Soundgeräten, Navigationsgeräte, moderne Wasch- und Spülmaschinen, Telefone
 * Verwaltung von Kunden- und Geschäftsdaten in z.B. Banken, Versicherungen und anderen Firmen und Konzernen
 * Viele größere Firmen erstellen eigene Software, um ihren Arbeitszweck speziell zu unterstützen.

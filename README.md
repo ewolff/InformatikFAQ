@@ -172,19 +172,25 @@ Neben der _reinen_ Informatik, die sich ihrerseits in die Bereiche _angewandte_ 
 
 #### Informatik-Spezialisierungen
 
-* Wirtschaftsinformatik
-* Medieninformatik
-* Bio-Informatik
-* Geo-Informatik
-* Medizinische Informatik
-* Neuro-Informatik
-* Künstliche Intelligenz
+| Fach | Inhalt |
+| :---| :---|
+| Wirtschaftsinformatik    | Entwicklung und Anwendung von Informations- und Kommunikationssystemen in Wirtschaftsunternehmen, angereichert um betriebswirtschaftliche Schwerpunkte |
+| Medieninformatik         | stark interdisziplinär, insbesondere Multimedia, inklusive Medienökonomie, Mediengestaltung, Medienpsychologie oder Mediendidaktik |
+| Bio-Informatik            | (englisch _bioinformatics_, auch _computational biology_) ist eine interdisziplinäre Wissenschaft, die Probleme aus den Lebenswissenschaften mit theoretischen computergestützten Methoden löst. Sie hat zu grundlegenden Erkenntnissen der modernen Biologie und Medizin beigetragen. |
+| Geo-Informatik            | Lehre vom Wesen und der Funktion raumbezogener Informationen (Geoinformation) sowie ihrer Erfassung, Vernetzung (Internet), Mobilisierung und Navigation (Smartphone), Speicherung, Analyse, und Visualisierung.|
+| Medizinische Informatik   | (englisch _Health Informatics_ oder _Medical Informatics_) ist die Wissenschaft der systematischen Erschließung, Darstellung, Verwaltung, Aufbewahrung, Verarbeitung und Bereitstellung von Daten, Algorithmen, Informationen und Wissen in der Medizin, beispielsweise computerunterstützte Diagnose oder Bildauswertung. |
+| Neuro-Informatik          | Teilgebiet der Informatik und der Neurobiologie, das sich mit der Informationsverarbeitung in neuronalen Systemen befasst, um diese in technischen Systemen anzuwenden. Ein stark interdisziplinäres Forschungsgebiet zwischen KI-Forschung und Kognitionswissenschaft.|
+| Künstliche Intelligenz    | auch: _Machine Learning_ |
+
+(Erklärungen auf Basis der jeweiligen Wikipedia-Artikel)
 
 #### Fächer mit hohem Informatik-Anteil
 
-* Data Science
-* Cognitive Science (Kognitionswissenschaft)
-* (Humanoide) Robotik
+| Fach | Inhalt |
+| :---| :---|
+| Data Science | Data Science ist ein interdisziplinäres Wissenschaftsfeld, Wissen sowohl aus strukturierten als auch unstrukturierten Daten ermöglicht. Verwendet Techniken und Theorien aus den Fächern Mathematik, Statistik und Informationstechnologie, Wahrscheinlichkeitsmodelle des maschinellen Lernens, der Programmierung, der Datentechnik, der Mustererkennung, der Prognostik, der Modellierung von Unsicherheiten und der Datenlagerung. |
+| Kognitionswissenschaft | (engl. _Cognitive Science_ oder _science of the mind_) Eine interdisziplinäre Wissenschaft zur Erforschung bewusster und potentiell bewusster Vorgänge.|
+| (Humanoide) Robotik | |
 
 
 ## Lizenz der FAQ

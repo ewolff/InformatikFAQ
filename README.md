@@ -21,10 +21,12 @@ Software wird aber seit Jahren in allen Branchen immer wichtiger, so dass diese 
 Im Mittelpunkt steht meistens die Entwicklung von Software. Beispielsweise für:
 
 * Automatisierung von Lagerverwaltung.
-* Steuerung und Regelung in Maschinen, beispielsweise Autos, Flugzeugen, Schiffen.
-* Steuerung von Produktionsprozessen in jeglicher Art von Fabrikanlagen, beispielsweise in der chemischen Industrie, der Automobilbranche oder dem Maschinenbau.
-* Steuerung unserer Energieversorgung: Stromerzeugung, -verteilung und -verkauf.
+* Steuerung und Regelung in Maschinen, beispielsweise Autos, Flugzeugen, Schiffen
+* Steuerung von Produktionsprozessen in jeglicher Art von Fabrikanlagen, beispielsweise in der chemischen Industrie, der Automobilbranche oder dem Maschinenbau
+* Steuerung von Transport- und Logistikprozessen, beispielsweise dem Transport von Paketen mit Sendungsverfolgung und Wegeoptimierung, oder auch der Gepäckförderung an Flughäfen
+* Steuerung unserer Energieversorgung: Stromerzeugung, -verteilung und -verkauf
 * Roboter
+* Sensorik (Licht-, Entfernungs-, Temperatur-, Druck- oder Feuchtemessung)
 * Jegliche Art anspruchsvoller Elektronik, also DVD-/Blu-ray-Player, alle Arten von Audio-/Soundgeräten, Navigationsgeräte, moderne Wasch- und Spülmaschinen, Telefone
 * Verwaltung von Kunden- und Geschäftsdaten in z.B. Banken, Versicherungen und anderen Firmen und Konzernen
 * Viele größere Firmen erstellen eigene Software, um ihren Arbeitszweck speziell zu unterstützen.
@@ -163,6 +165,27 @@ Aber: Software-Entwicklung ist oft wie das Erarbeiten eines Lösungsansatzes fü
 Viel zu niedrig. Es gibt aber Initiativen, die versuchen, den Frauen-Anteil zu erhöhen.
 
 Gerade der von vielen unterschätzte kommunikative Teil der Arbeit wird sozialisationsbedingt von Frauen wegen der geschlechtertypische Erziehung besser ausgefüllt. Daher sind sie gerade in der Informatik, einem „typisch männlichen Feld“, sehr gefragt.  Insbesondere die geschlechtertypische Erziehung ist bei genauerem Hinsehen ein Vorteil, da Frauen andere Blickwinkel auf Probleme in der Programmierung mitbringen und so die Kreativität und Produktivität des zumeist hauptsächlich männlichen Arbeitsumfelds steigern.
+
+## Welche Spezialisierungen gibt es?
+
+Neben der _reinen_ Informatik, die sich ihrerseits in die Bereiche _angewandte_ (d.h. praktische) oder _theoretische_ Informatik aufteilt, gibt es mittlerweile eine ganze Reihe von Spezialisierungen oder auch Fachgebieten mit hohem Informatik-Anteil. Beispiele:
+
+#### Informatik-Spezialisierungen
+
+* Wirtschaftsinformatik
+* Medieninformatik
+* Bio-Informatik
+* Geo-Informatik
+* Medizinische Informatik
+* Neuro-Informatik
+* Künstliche Intelligenz
+
+#### Fächer mit hohem Informatik-Anteil
+
+* Data Science
+* Cognitive Science (Kognitionswissenschaft)
+* (Humanoide) Robotik
+
 
 ## Lizenz der FAQ
 
